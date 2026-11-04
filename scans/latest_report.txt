@@ -1,58 +1,64 @@
 Downloading 112 stocks from Yahoo Finance...
 
 ====================================================================================================
-HALAL DIP SCAN  03.11.2026 04:43   (112 of 112 stocks with data)
+HALAL DIP SCAN  04.11.2026 04:47   (112 of 112 stocks with data)
 ====================================================================================================
 
 SIGNALS  (RSI < 35, week <= -4.0%, ABOVE 200-day line)  -> send to Claude:
-  TWLO       Twilio                     RSI  31.5   week  -21.3%   +9.7% vs 200d  Tier -
-  AMD        Advanced Micro Devices     RSI  34.6   week  -12.1%   +13.4% vs 200d Tier A (1500)
+  ZBRA       Zebra Technologies         RSI  27.2   week  -13.7%   +17.3% vs 200d Tier -
+  6701.T     NEC                        RSI  32.2   week  -14.7%   +1.6% vs 200d  Tier -
+  SHOP       Shopify                    RSI  33.3   week  -14.0%   +9.8% vs 200d  Tier B (750)
+  6861.T     Keyence                    RSI  34.5   week   -7.2%   +3.0% vs 200d  Tier -
+  TWLO       Twilio                     RSI  34.7   week  -16.0%   +12.7% vs 200d Tier -
 
 QUICK DIP SIGNALS (N1: Tier A + HiBeta only, RSI(2) < 10, ABOVE 200-day line)  -> send to Claude:
-  MU         Micron Technology          RSI  37.4   week   -7.8%   +11.3% vs 200d Tier HiBeta (1000)   RSI(2) 9.8
+  AAPL       Apple                      RSI  41.7   week   -4.4%   +11.7% vs 200d Tier A (1500)   RSI(2) 6.5
+  SAP        SAP SE                     RSI  57.2   week   -2.3%   +20.9% vs 200d Tier A (1500)   RSI(2) 7.4
 
 OVERSOLD BUT BELOW 200-day line (downtrend - NO BUY):
-  FTNT       Fortinet                   RSI  23.6   week  -31.2%   -1.9% vs 200d  Tier HiBeta (1000)
-  2308.TW    Delta Electronics          RSI  24.7   week  -15.6%   -25.8% vs 200d Tier -
-  APP        AppLovin                   RSI  25.3   week  -12.2%   -44.7% vs 200d Tier B (750)
-  UMC        United Microelectronics    RSI  25.8   week  -14.5%   -3.3% vs 200d  Tier -
-  6702.T     Fujitsu                    RSI  27.5   week  -22.0%   -4.0% vs 200d  Tier -
-  MOD        Modine Manufacturing       RSI  28.5   week   -5.3%   -42.9% vs 200d Tier HiBeta (1000)
-  6301.T     Komatsu                    RSI  28.6   week   -7.7%   -7.1% vs 200d  Tier -
-  MRVL       Marvell Technology         RSI  28.8   week  -26.7%   -6.6% vs 200d  Tier HiBeta (1000)
-  SNDK       SanDisk                    RSI  30.0   week  -14.4%   -14.8% vs 200d Tier B (750)
-  6501.T     Hitachi                    RSI  30.1   week  -10.2%   -2.2% vs 200d  Tier -
-  LRCX       Lam Research               RSI  30.7   week   -4.2%   -19.8% vs 200d Tier A (1500)
-  NBIS       Nebius Group               RSI  32.3   week   -7.8%   -20.4% vs 200d Tier B (750)
-  COHR       Coherent                   RSI  32.7   week   -9.7%   -32.6% vs 200d Tier HiBeta (1000)
-  AAOI       Applied Optoelectronics    RSI  33.1   week  -13.1%   -45.3% vs 200d Tier B (750)
-  ANET       Arista Networks            RSI  33.5   week   -7.4%   -0.7% vs 200d  Tier HiBeta (1000)
+  2308.TW    Delta Electronics          RSI  21.9   week  -23.5%   -31.1% vs 200d Tier -
+  6702.T     Fujitsu                    RSI  25.0   week  -24.6%   -7.8% vs 200d  Tier -
+  FTNT       Fortinet                   RSI  25.4   week  -30.8%   -0.6% vs 200d  Tier HiBeta (1000)
+  UMC        United Microelectronics    RSI  25.9   week  -15.7%   -3.4% vs 200d  Tier -
+  6501.T     Hitachi                    RSI  26.2   week  -14.9%   -5.9% vs 200d  Tier -
+  6301.T     Komatsu                    RSI  26.5   week  -10.9%   -9.2% vs 200d  Tier -
+  5803.T     Fujikura                   RSI  27.4   week  -14.6%   -26.3% vs 200d Tier -
+  MRVL       Marvell Technology         RSI  29.1   week  -29.4%   -6.6% vs 200d  Tier HiBeta (1000)
+  MOD        Modine Manufacturing       RSI  30.4   week   -8.1%   -41.9% vs 200d Tier HiBeta (1000)
+  6762.T     TDK                        RSI  30.5   week  -12.3%   -16.7% vs 200d Tier -
+  6752.T     Panasonic Holdings         RSI  31.2   week   -9.7%   -4.3% vs 200d  Tier -
+  6981.T     Murata Manufacturing       RSI  31.3   week  -10.8%   -11.3% vs 200d Tier -
+  6471.T     NSK                        RSI  31.7   week   -4.9%   -15.5% vs 200d Tier -
+  6723.T     Renesas Electronics        RSI  32.0   week   -9.2%   -22.3% vs 200d Tier -
+  6324.T     Harmonic Drive Systems     RSI  32.2   week  -14.1%   -17.4% vs 200d Tier -
+  LRCX       Lam Research               RSI  32.5   week   -4.2%   -18.7% vs 200d Tier A (1500)
+  SNDK       SanDisk                    RSI  34.0   week  -13.7%   -11.0% vs 200d Tier B (750)
+  AAOI       Applied Optoelectronics    RSI  34.4   week  -16.9%   -44.1% vs 200d Tier B (750)
 
 WATCH  (uptrend, RSI < 40 or week <= -4.0%, not a full signal yet):
-  CSCO       Cisco Systems              RSI  35.5   week   -7.8%   +0.9% vs 200d  Tier -
-  6988.T     Nitto Denko                RSI  36.6   week   -8.1%   +0.4% vs 200d  Tier -
-  MU         Micron Technology          RSI  37.4   week   -7.8%   +11.3% vs 200d Tier HiBeta (1000)
-  6861.T     Keyence                    RSI  37.6   week   -3.1%   +5.2% vs 200d  Tier -
-  TEAM       Atlassian                  RSI  39.0   week  -16.3%   +58.4% vs 200d Tier -
-  6701.T     NEC                        RSI  39.6   week   -9.8%   +7.3% vs 200d  Tier -
-  ZBRA       Zebra Technologies         RSI  40.0   week   -6.0%   +28.7% vs 200d Tier -
-  SHOP       Shopify                    RSI  43.4   week   -7.1%   +20.3% vs 200d Tier B (750)
-  DVN        Devon Energy               RSI  45.3   week   -5.8%   +6.7% vs 200d  Tier -
-  4578.T     Otsuka Holdings            RSI  45.3   week   -5.8%   +7.6% vs 200d  Tier -
-  7751.T     Canon                      RSI  47.1   week   -5.6%   +5.1% vs 200d  Tier -
-  6098.T     Recruit Holdings           RSI  49.5   week   -5.7%   +59.0% vs 200d Tier -
-  5020.T     ENEOS Holdings             RSI  50.2   week   -4.1%   +6.6% vs 200d  Tier -
-  SU         Suncor Energy              RSI  52.0   week   -5.1%   +19.7% vs 200d Tier -
+  AMD        Advanced Micro Devices     RSI  38.4   week  -13.6%   +17.2% vs 200d Tier A (1500)
+  ANET       Arista Networks            RSI  38.5   week   -9.1%   +2.6% vs 200d  Tier HiBeta (1000)
+  CSCO       Cisco Systems              RSI  38.8   week   -7.6%   +2.1% vs 200d  Tier -
+  6988.T     Nitto Denko                RSI  39.0   week   -7.1%   +1.2% vs 200d  Tier -
+  TSM        Taiwan Semiconductor (TSMC RSI  39.3   week   -7.3%   +1.4% vs 200d  Tier A (1500)
+  MU         Micron Technology          RSI  40.4   week   -7.9%   +13.8% vs 200d Tier HiBeta (1000)
+  DVN        Devon Energy               RSI  41.6   week   -7.0%   +4.3% vs 200d  Tier -
+  AAPL       Apple                      RSI  41.7   week   -4.4%   +11.7% vs 200d Tier A (1500)
+  TEAM       Atlassian                  RSI  42.0   week  -12.9%   +61.3% vs 200d Tier -
+  6098.T     Recruit Holdings           RSI  42.7   week   -7.3%   +53.1% vs 200d Tier -
+  ASX        ASE Technology             RSI  43.0   week   -7.2%   +17.0% vs 200d Tier -
+  6857.T     Advantest                  RSI  43.2   week   -4.2%   +11.6% vs 200d Tier HiBeta (1000)
+  7751.T     Canon                      RSI  44.4   week   -5.7%   +4.0% vs 200d  Tier -
 
 SETUPS  (uptrend, price 0-8.0% above 200-day line, RSI <= 45):
-  BHP        BHP Group                  RSI  41.1   week    1.2%   +0.2% vs 200d  Tier -
-  6988.T     Nitto Denko                RSI  36.6   week   -8.1%   +0.4% vs 200d  Tier -
-  CSCO       Cisco Systems              RSI  35.5   week   -7.8%   +0.9% vs 200d  Tier -
-  6861.T     Keyence                    RSI  37.6   week   -3.1%   +5.2% vs 200d  Tier -
-  6701.T     NEC                        RSI  39.6   week   -9.8%   +7.3% vs 200d  Tier -
-  6752.T     Panasonic Holdings         RSI  40.5   week    4.4%   +7.6% vs 200d  Tier -
+  6988.T     Nitto Denko                RSI  39.0   week   -7.1%   +1.2% vs 200d  Tier -
+  TSM        Taiwan Semiconductor (TSMC RSI  39.3   week   -7.3%   +1.4% vs 200d  Tier A (1500)
+  CSCO       Cisco Systems              RSI  38.8   week   -7.6%   +2.1% vs 200d  Tier -
+  ANET       Arista Networks            RSI  38.5   week   -9.1%   +2.6% vs 200d  Tier HiBeta (1000)
+  7751.T     Canon                      RSI  44.4   week   -5.7%   +4.0% vs 200d  Tier -
+  DVN        Devon Energy               RSI  41.6   week   -7.0%   +4.3% vs 200d  Tier -
 
-Full table saved to scans/scan_2026-11-03.csv
+Full table saved to scans/scan_2026-11-04.csv
 
 Reminder: confirm every signal in TradingView/Trade Republic and check the news before buying.
 Exit plan: sell limit +5%. Not reached within 20 trading days (~4 weeks) -> sell.
