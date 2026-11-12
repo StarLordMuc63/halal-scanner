@@ -1,45 +1,31 @@
 Downloading 112 stocks from Yahoo Finance...
 
 ====================================================================================================
-HALAL DIP SCAN  11.11.2026 04:50   (112 of 112 stocks with data)
+HALAL DIP SCAN  12.11.2026 04:50   (112 of 112 stocks with data)
 ====================================================================================================
 
 SIGNALS  (RSI < 35, week <= -4.0%, ABOVE 200-day line)  -> send to Claude:
-  TEAM       Atlassian                  RSI  25.8   week  -22.2%   +24.5% vs 200d Tier -
+  TEAM       Atlassian                  RSI  28.9   week  -19.7%   +27.6% vs 200d Tier -
 
 QUICK DIP SIGNALS (N1: Tier A + HiBeta only, RSI(2) < 10, ABOVE 200-day line)  -> send to Claude:
   none today
 
 OVERSOLD BUT BELOW 200-day line (downtrend - NO BUY):
-  5803.T     Fujikura                   RSI  27.4   week  -14.8%   -33.7% vs 200d Tier -
-  SNDK       SanDisk                    RSI  29.2   week  -23.7%   -32.6% vs 200d Tier B (750)
-  AAOI       Applied Optoelectronics    RSI  30.4   week  -24.5%   -57.9% vs 200d Tier B (750)
-  MOD        Modine Manufacturing       RSI  31.0   week  -17.8%   -52.0% vs 200d Tier HiBeta (1000)
-  UMC        United Microelectronics    RSI  31.2   week   -8.3%   -11.9% vs 200d Tier -
-  MRVL       Marvell Technology         RSI  32.1   week  -10.2%   -16.9% vs 200d Tier HiBeta (1000)
-  5020.T     ENEOS Holdings             RSI  33.9   week   -9.4%   -8.1% vs 200d  Tier -
-  DVN        Devon Energy               RSI  34.0   week   -8.8%   -5.2% vs 200d  Tier -
-  SMCI       Super Micro Computer       RSI  34.6   week  -11.5%   -14.7% vs 200d Tier B (750)
+  5803.T     Fujikura                   RSI  26.0   week   -6.5%   -35.6% vs 200d Tier -
 
 WATCH  (uptrend, RSI < 40 or week <= -4.0%, not a full signal yet):
-  ZBRA       Zebra Technologies         RSI  28.5   week   -2.5%   +13.6% vs 200d Tier -
-  SU         Suncor Energy              RSI  35.0   week  -10.2%   +6.4% vs 200d  Tier -
-  XOM        Exxon Mobil                RSI  37.9   week   -7.3%   +6.3% vs 200d  Tier -
-  TWLO       Twilio                     RSI  38.8   week    0.2%   +11.7% vs 200d Tier -
-  6701.T     NEC                        RSI  38.9   week   -1.8%   +1.1% vs 200d  Tier -
-  ASX        ASE Technology             RSI  42.4   week   -9.1%   +5.2% vs 200d  Tier -
-  6857.T     Advantest                  RSI  44.2   week   -9.8%   +6.5% vs 200d  Tier HiBeta (1000)
-  AME        AMETEK                     RSI  47.0   week   -4.1%   +1.7% vs 200d  Tier -
-  4568.T     Daiichi Sankyo             RSI  49.5   week   -4.7%   +1.5% vs 200d  Tier -
+  ZBRA       Zebra Technologies         RSI  33.4   week   -1.5%   +15.5% vs 200d Tier -
+  SU         Suncor Energy              RSI  39.3   week   -4.3%   +8.2% vs 200d  Tier -
+  6098.T     Recruit Holdings           RSI  39.7   week   -7.3%   +44.0% vs 200d Tier -
+  4568.T     Daiichi Sankyo             RSI  53.5   week   -7.2%   +4.6% vs 200d  Tier -
+  ISRG       Intuitive Surgical         RSI  54.8   week   -6.8%   +4.5% vs 200d  Tier A (1500)
+  7936.T     ASICS                      RSI  55.1   week   -4.9%   +9.6% vs 200d  Tier -
 
 SETUPS  (uptrend, price 0-8.0% above 200-day line, RSI <= 45):
-  6701.T     NEC                        RSI  38.9   week   -1.8%   +1.1% vs 200d  Tier -
-  ASX        ASE Technology             RSI  42.4   week   -9.1%   +5.2% vs 200d  Tier -
-  XOM        Exxon Mobil                RSI  37.9   week   -7.3%   +6.3% vs 200d  Tier -
-  SU         Suncor Energy              RSI  35.0   week  -10.2%   +6.4% vs 200d  Tier -
-  6857.T     Advantest                  RSI  44.2   week   -9.8%   +6.5% vs 200d  Tier HiBeta (1000)
+  6857.T     Advantest                  RSI  42.2   week    2.4%   +3.0% vs 200d  Tier HiBeta (1000)
+  XOM        Exxon Mobil                RSI  41.9   week   -1.5%   +7.6% vs 200d  Tier -
 
-Full table saved to scans/scan_2026-11-11.csv
+Full table saved to scans/scan_2026-11-12.csv
 
 Reminder: confirm every signal in TradingView/Trade Republic and check the news before buying.
 Exit plan: sell limit +5%. Not reached within 20 trading days (~4 weeks) -> sell.
