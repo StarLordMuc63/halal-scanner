@@ -1,31 +1,31 @@
 Downloading 112 stocks from Yahoo Finance...
 
 ====================================================================================================
-HALAL DIP SCAN  13.11.2026 04:50   (111 of 112 stocks with data)
+HALAL DIP SCAN  16.11.2026 05:24   (112 of 112 stocks with data)
 ====================================================================================================
 
 SIGNALS  (RSI < 35, week <= -4.0%, ABOVE 200-day line)  -> send to Claude:
-  TEAM       Atlassian                  RSI  28.8   week  -16.9%   +27.4% vs 200d Tier -
+  none today
 
 QUICK DIP SIGNALS (N1: Tier A + HiBeta only, RSI(2) < 10, ABOVE 200-day line)  -> send to Claude:
   none today
 
 OVERSOLD BUT BELOW 200-day line (downtrend - NO BUY):
-  1211.HK    BYD                        RSI  34.2   week  -10.8%   -26.0% vs 200d Tier -
+  5803.T     Fujikura                   RSI  22.0   week  -12.3%   -42.9% vs 200d Tier -
+  1211.HK    BYD                        RSI  32.4   week  -10.3%   -27.2% vs 200d Tier -
 
 WATCH  (uptrend, RSI < 40 or week <= -4.0%, not a full signal yet):
-  ZBRA       Zebra Technologies         RSI  29.9   week   -1.2%   +12.0% vs 200d Tier -
-  TWLO       Twilio                     RSI  39.0   week    5.6%   +10.2% vs 200d Tier -
-  4543.T     Terumo                     RSI  48.1   week   -4.2%   +7.9% vs 200d  Tier -
-  ISRG       Intuitive Surgical         RSI  50.5   week   -6.1%   +2.4% vs 200d  Tier A (1500)
+  TEAM       Atlassian                  RSI  28.0   week   -2.4%   +25.3% vs 200d Tier -
+  ZBRA       Zebra Technologies         RSI  34.6   week    0.6%   +14.0% vs 200d Tier -
+  TWLO       Twilio                     RSI  38.6   week    4.5%   +9.5% vs 200d  Tier -
+  7936.T     ASICS                      RSI  45.7   week  -11.3%   +0.3% vs 200d  Tier -
 
 SETUPS  (uptrend, price 0-8.0% above 200-day line, RSI <= 45):
-  MU         Micron Technology          RSI  44.1   week   21.6%   +4.5% vs 200d  Tier HiBeta (1000)
-  ASX        ASE Technology             RSI  44.6   week   22.1%   +7.0% vs 200d  Tier -
+  MU         Micron Technology          RSI  42.5   week   12.8%   +1.7% vs 200d  Tier HiBeta (1000)
+  6861.T     Keyence                    RSI  42.9   week    3.4%   +3.0% vs 200d  Tier -
+  ASX        ASE Technology             RSI  43.4   week   12.4%   +4.6% vs 200d  Tier -
 
-NO DATA (check manually): LRCX
-
-Full table saved to scans/scan_2026-11-13.csv
+Full table saved to scans/scan_2026-11-16.csv
 
 Reminder: confirm every signal in TradingView/Trade Republic and check the news before buying.
 Exit plan: sell limit +5%. Not reached within 20 trading days (~4 weeks) -> sell.
