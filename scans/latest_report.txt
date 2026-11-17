@@ -1,7 +1,7 @@
 Downloading 112 stocks from Yahoo Finance...
 
 ====================================================================================================
-HALAL DIP SCAN  16.11.2026 05:24   (112 of 112 stocks with data)
+HALAL DIP SCAN  17.11.2026 12:47   (112 of 112 stocks with data)
 ====================================================================================================
 
 SIGNALS  (RSI < 35, week <= -4.0%, ABOVE 200-day line)  -> send to Claude:
@@ -11,21 +11,38 @@ QUICK DIP SIGNALS (N1: Tier A + HiBeta only, RSI(2) < 10, ABOVE 200-day line)  -
   none today
 
 OVERSOLD BUT BELOW 200-day line (downtrend - NO BUY):
-  5803.T     Fujikura                   RSI  22.0   week  -12.3%   -42.9% vs 200d Tier -
-  1211.HK    BYD                        RSI  32.4   week  -10.3%   -27.2% vs 200d Tier -
+  5803.T     Fujikura                   RSI  20.8   week  -16.1%   -45.2% vs 200d Tier -
+  2308.TW    Delta Electronics          RSI  29.0   week  -17.3%   -38.9% vs 200d Tier -
+  6752.T     Panasonic Holdings         RSI  29.4   week   -8.0%   -17.4% vs 200d Tier -
+  6981.T     Murata Manufacturing       RSI  30.3   week   -8.0%   -25.2% vs 200d Tier -
+  1211.HK    BYD                        RSI  31.2   week  -10.8%   -28.0% vs 200d Tier -
+  SNDK       SanDisk                    RSI  31.3   week   -8.7%   -37.0% vs 200d Tier B (750)
+  AAOI       Applied Optoelectronics    RSI  32.0   week  -13.3%   -60.7% vs 200d Tier B (750)
+  MRVL       Marvell Technology         RSI  32.6   week   -6.0%   -22.4% vs 200d Tier HiBeta (1000)
+  SMCI       Super Micro Computer       RSI  33.1   week  -12.5%   -23.0% vs 200d Tier B (750)
+  6324.T     Harmonic Drive Systems     RSI  33.9   week  -12.9%   -24.4% vs 200d Tier -
+  NBIS       Nebius Group               RSI  33.9   week  -24.3%   -40.3% vs 200d Tier B (750)
+  6857.T     Advantest                  RSI  34.7   week  -12.4%   -11.5% vs 200d Tier HiBeta (1000)
+  000660.KS  SK hynix                   RSI  34.8   week   -9.4%   -27.9% vs 200d Tier -
+  SYM        Symbotic                   RSI  34.9   week   -9.3%   -26.7% vs 200d Tier B (750)
 
 WATCH  (uptrend, RSI < 40 or week <= -4.0%, not a full signal yet):
-  TEAM       Atlassian                  RSI  28.0   week   -2.4%   +25.3% vs 200d Tier -
-  ZBRA       Zebra Technologies         RSI  34.6   week    0.6%   +14.0% vs 200d Tier -
-  TWLO       Twilio                     RSI  38.6   week    4.5%   +9.5% vs 200d  Tier -
-  7936.T     ASICS                      RSI  45.7   week  -11.3%   +0.3% vs 200d  Tier -
+  TEAM       Atlassian                  RSI  28.0   week   -3.2%   +25.1% vs 200d Tier -
+  ZBRA       Zebra Technologies         RSI  33.1   week   -2.0%   +12.4% vs 200d Tier -
+  TWLO       Twilio                     RSI  34.4   week   -3.5%   +3.1% vs 200d  Tier -
+  SU         Suncor Energy              RSI  37.9   week    0.8%   +6.2% vs 200d  Tier -
+  6861.T     Keyence                    RSI  39.7   week   -3.6%   +0.8% vs 200d  Tier -
+  ISRG       Intuitive Surgical         RSI  49.5   week   -5.0%   +2.0% vs 200d  Tier A (1500)
+  TMO        Thermo Fisher Scientific   RSI  50.5   week   -4.2%   +24.5% vs 200d Tier A (1500)
 
 SETUPS  (uptrend, price 0-8.0% above 200-day line, RSI <= 45):
-  MU         Micron Technology          RSI  42.5   week   12.8%   +1.7% vs 200d  Tier HiBeta (1000)
-  6861.T     Keyence                    RSI  42.9   week    3.4%   +3.0% vs 200d  Tier -
-  ASX        ASE Technology             RSI  43.4   week   12.4%   +4.6% vs 200d  Tier -
+  AME        AMETEK                     RSI  44.8   week   -1.0%   +0.4% vs 200d  Tier -
+  6861.T     Keyence                    RSI  39.7   week   -3.6%   +0.8% vs 200d  Tier -
+  TWLO       Twilio                     RSI  34.4   week   -3.5%   +3.1% vs 200d  Tier -
+  SU         Suncor Energy              RSI  37.9   week    0.8%   +6.2% vs 200d  Tier -
+  XOM        Exxon Mobil                RSI  44.4   week    1.9%   +8.0% vs 200d  Tier -
 
-Full table saved to scans/scan_2026-11-16.csv
+Full table saved to scans/scan_2026-11-17.csv
 
 Reminder: confirm every signal in TradingView/Trade Republic and check the news before buying.
 Exit plan: sell limit +5%. Not reached within 20 trading days (~4 weeks) -> sell.
