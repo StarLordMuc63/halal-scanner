@@ -1,37 +1,32 @@
 Downloading 112 stocks from Yahoo Finance...
 
 ====================================================================================================
-HALAL DIP SCAN  26.11.2026 13:33   (111 of 112 stocks with data)
+HALAL DIP SCAN  27.11.2026 13:29   (112 of 112 stocks with data)
 ====================================================================================================
 
 SIGNALS  (RSI < 35, week <= -4.0%, ABOVE 200-day line)  -> send to Claude:
-  none today
+  CSU.TO     Constellation Software     RSI  33.6   week   -4.3%   +7.3% vs 200d  Tier -
 
 QUICK DIP SIGNALS (N1: Tier A + HiBeta only, RSI(2) < 10, ABOVE 200-day line)  -> send to Claude:
   none today
 
 OVERSOLD BUT BELOW 200-day line (downtrend - NO BUY):
-  1211.HK    BYD                        RSI  20.5   week  -10.0%   -35.2% vs 200d Tier -
-  5803.T     Fujikura                   RSI  21.1   week  -20.3%   -55.9% vs 200d Tier -
+  5803.T     Fujikura                   RSI  25.7   week  -14.2%   -53.2% vs 200d Tier -
   AMBA       Ambarella                  RSI  25.9   week  -34.7%   -46.5% vs 200d Tier B (750)
+  1211.HK    BYD                        RSI  29.3   week   -5.4%   -32.7% vs 200d Tier -
   SNDK       SanDisk                    RSI  29.4   week  -19.4%   -41.3% vs 200d Tier B (750)  (OLD DATA 2026-11-19)
   AAOI       Applied Optoelectronics    RSI  31.9   week   -9.2%   -67.8% vs 200d Tier B (750)
-  6471.T     NSK                        RSI  32.3   week   -7.5%   -22.0% vs 200d Tier -
-  6301.T     Komatsu                    RSI  32.4   week   -6.2%   -16.3% vs 200d Tier -
-  5020.T     ENEOS Holdings             RSI  32.5   week   -4.9%   -12.2% vs 200d Tier -
   NBIS       Nebius Group               RSI  33.1   week  -20.5%   -52.7% vs 200d Tier B (750)
-  6324.T     Harmonic Drive Systems     RSI  33.3   week  -11.0%   -34.6% vs 200d Tier -
   CLS        Celestica                  RSI  33.6   week  -21.1%   -41.0% vs 200d Tier B (750)
   TWLO       Twilio                     RSI  33.7   week   -7.7%   -7.7% vs 200d  Tier -
-  005930.KS  Samsung Electronics        RSI  34.3   week  -13.0%   -28.1% vs 200d Tier -
 
 WATCH  (uptrend, RSI < 40 or week <= -4.0%, not a full signal yet):
   TEAM       Atlassian                  RSI  34.4   week    6.9%   +19.1% vs 200d Tier -
   SU         Suncor Energy              RSI  34.8   week   -0.8%   -0.0% vs 200d  Tier -
-  CSU.TO     Constellation Software     RSI  35.1   week   -7.6%   +8.4% vs 200d  Tier -
   XOM        Exxon Mobil                RSI  36.2   week   -1.6%   +2.0% vs 200d  Tier -
   SAP        SAP SE                     RSI  38.7   week   -0.7%   +9.4% vs 200d  Tier A (1500)
   SHOP       Shopify                    RSI  39.2   week   -4.3%   +2.0% vs 200d  Tier B (750)
+  6098.T     Recruit Holdings           RSI  43.2   week   -6.3%   +38.8% vs 200d Tier -
   TXN        Texas Instruments          RSI  43.8   week   -7.6%   +2.0% vs 200d  Tier -
 
 SETUPS  (uptrend, price 0-8.0% above 200-day line, RSI <= 45):
@@ -40,9 +35,7 @@ SETUPS  (uptrend, price 0-8.0% above 200-day line, RSI <= 45):
   SHOP       Shopify                    RSI  39.2   week   -4.3%   +2.0% vs 200d  Tier B (750)
   XOM        Exxon Mobil                RSI  36.2   week   -1.6%   +2.0% vs 200d  Tier -
 
-NO DATA (check manually): FTNT
-
-Full table saved to scans/scan_2026-11-26.csv
+Full table saved to scans/scan_2026-11-27.csv
 
 Reminder: confirm every signal in TradingView/Trade Republic and check the news before buying.
 Exit plan: sell limit +5%. Not reached within 20 trading days (~4 weeks) -> sell.
